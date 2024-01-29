@@ -40,5 +40,6 @@ export default antfu({
     'no-sequences': 'off',
     'no-extra-parens': 'off',
     'sort-keys': 'off',
+    'ts/type-ban': 'off',
   },
 })
